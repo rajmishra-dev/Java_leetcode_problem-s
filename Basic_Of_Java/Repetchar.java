@@ -1,3 +1,5 @@
+// Program to find the first non-repeating character from a given string
+
 import java.util.*;
 
 public class Repetchar {
